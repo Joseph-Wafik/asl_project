@@ -1,0 +1,14 @@
+{
+    "Model": "EfficientNetB0",
+    "Phase": 2,
+    "Accuracy": 0.9991975308641975,
+    "Top5_Acc": 0.9999691358024692,
+    "Precision": 0.9991992213092327,
+    "Recall": 0.9991975308641975,
+    "F1-Score": 0.9991976709330578,
+    "Test_Samples": 32400,
+    "Misclassified": 26,
+    "Error_Rate_%": 0.08024691358024691,
+    "Combined_Score": 2.4983797696984897,
+    "Overall_Rank": 1
+}
